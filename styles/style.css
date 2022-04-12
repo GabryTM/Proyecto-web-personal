@@ -125,14 +125,42 @@
     justify-content: space-around;
   }
   .info-enlaces{
+    margin: 15px;
     background-color: rgb(57, 7, 103);
     color: azure;
-    width: 45px;
+    width: 65px;
     height: 25px;
     border-radius: 10%;
     cursor: pointer;
   }
-
+.info-enlaces a{
+  all:unset
+}
   .info-enlaces:hover{
   background-color: rgb(100, 100, 176);
   }
+/*Contacto*/
+.contacto form{
+  justify-content: space-around;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  max-width: 30%;
+}
+.contacto {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+/*Portfolio*/
+.imagen-portfolio{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.imagen-portfolio h2{
+padding: 20px;
+}
