@@ -9,7 +9,7 @@
     background: rgb(255, 255, 255);
     background: radial-gradient(closest-side, rgb(62, 0, 84) 0%, rgb(137, 126, 243) 100%);
     font-family: 'Roboto', sans-serif;;
-  }
+  } 
   
   header {
     background: white;
@@ -96,7 +96,7 @@
   /* Biografia */
   .biografia-info {
     display: flex;
-    flex-direction: row;
+    /*flex-direction: row;*/
     padding: 100px;
     color: white
   }

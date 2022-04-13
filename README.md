@@ -14,4 +14,4 @@ Para desplegar este proyecto debes clonarte el respositorio a través de el sigu
 https://github.com/GabryTM/Proyecto-web-personal.git
 ```
 ## Autor
-Este proyecto fue desarrollado por Gabriel Tapia Manzanero (https://github.com/GabryTM/)
+Este proyecto fue desarrollado por [Gabriel Tapia Manzanero](https://github.com/GabryTM/)
